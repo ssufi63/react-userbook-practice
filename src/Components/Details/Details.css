@@ -1,0 +1,30 @@
+img{
+    border-radius: 50%;
+}
+.area{
+    display: flex;
+    border-bottom: 1px solid #B33771;
+}
+.details-area{
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: left;
+    border: 3px solid white;
+    padding: 0 80px;
+    border-radius: 20px;
+}
+.image-area{
+    margin-top: 25px;
+    margin-left: 100px
+}
+button{
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+    background-color: #B33771;
+    color: white;
+    border-radius: 10px;
+}

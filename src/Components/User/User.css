@@ -1,0 +1,11 @@
+.userSalary-area{
+    color:white;
+    text-align: center;
+    display: flex
+}
+.user-area{
+    width: 70%;
+    margin: 10px;
+    padding: 20px;
+    border-right: 1px solid #B33771;
+}
